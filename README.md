@@ -1,1 +1,2 @@
 # ADA-Informes
+PRofesor, ayer subi el colab antes de tenerlo listo pensando que se actualizarian automaticamente todos los cambios hechos posterior a haberlo subido. Pero revisando ahora, me di cuenta que lo que se sube es una copia distinta al colab original que estaba manipulando, y no se iba visto reflejado niun cambio posterior a haber subido el colab. Por lo que ahora esperando que no afecte mi nota elimine el de ayer y subi el terminado.
